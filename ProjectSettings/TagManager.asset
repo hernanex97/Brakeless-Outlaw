@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AutosEnemigos
+  - LuzAzul
+  - LuzRoja
+  - Derrape
+  - Derrape1
+  - Posiciones
+  - DestructorAutosMid
+  - PosicionesLeft
+  - Intereseccion
+  - KillerAutos
+  - Suelo
+  - Avenida
+  - Costado
+  - TP1A
+  - TP2A
+  - TP3A
+  - TP1B
+  - TP2B
+  - TP3B
+  - TransversalA
+  - TransversalB
+  - Policia
+  - Edificio
+  - Agua
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Semaforo
+  - AutoTransito
+  - 
+  - Agua
+  - Suelo
+  - DetectorTeleport
+  - Edificios
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
